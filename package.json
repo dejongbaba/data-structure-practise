@@ -1,0 +1,25 @@
+{
+  "name": "data-structure-practise",
+  "version": "1.0.0",
+  "description": "a repository to practise data structure and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejongbaba/data-structure-practise.git"
+  },
+  "keywords": [
+    "data",
+    "structure",
+    "algorithm",
+    "practise"
+  ],
+  "author": "Agunbiade Adedeji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dejongbaba/data-structure-practise/issues"
+  },
+  "homepage": "https://github.com/dejongbaba/data-structure-practise#readme"
+}
