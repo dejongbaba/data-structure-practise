@@ -6,3 +6,7 @@ export class LinkedListNode {
     this.value = value;
   }
 }
+
+//  
+
+export default LinkedList;
